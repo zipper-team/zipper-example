@@ -2,7 +2,7 @@
 
 Esse é um projeto simples para exemplificar o contrato de quais informações e quais endpoints esperamos.
 
-[Documentação swagger](https://app.swaggerhub.com/apis-docs/rdoVieira01/integrationTemplate/1.0.0)
+[Documentação swagger](https://app.swaggerhub.com/apis-docs/rdoVieira01/IntegrationExample/1.0.0)
 
 Os models declarados não "engessam" os dados que retornam da origem.
 
